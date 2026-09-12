@@ -37,21 +37,21 @@ Reusable SystemVerilog cores for Quartus and Platform Designer projects.
 Practical NIOS-V processor examples for FPGA development and Terasic DE0-NANO workflows.
 
 - [Repository](https://github.com/monkstein88/niosv-example-projects)
-- [NIOS-V documentation](https://www.intel.com/content/www/us/en/docs/programmable/683632/current/nios-v-processor.html)
+- [NIOS-V documentation](https://www.altera.com/design/guidance/nios-v-developer)
 
 ### Tang Nano 9K Labs
 
 FPGA tutorial exercises and experiments built for the Sipeed Tang Nano 9K board.
 
 - [Repository](https://github.com/monkstein88/sipeed-tang-nano-9k-lushay-labs)
-- [Tang Nano documentation](https://www.sipeed.com/tangnano)
+- [Tang Nano documentation](https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html)
 
 ### QMTECH C5SOC Linux
 
 A build environment for generating U-Boot and Linux images for the QMTECH C5SOC platform.
 
 - [Repository](https://github.com/monkstein88/qmtech-c5soc-kfb-linux-build-env)
-- [Linux documentation](https://www.kernel.org/doc/html/latest/)
+- [Linux documentation](https://www.rocketboards.org/foswiki/Documentation/BuildingBootloaderCycloneVAndArria10)
 
 ## Technology
 
